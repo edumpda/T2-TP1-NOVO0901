@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1662041392 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1661543699 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1660824375 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\dominios.h
+	<stdexcept>
+	<string>
+
+1660824375 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\entidades.h
+	"dominios.h"
+	<string>
+
+1662043414 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\interfaces.h
+	<list>
+	"dominios.h"
+	"entidades.h"
+
+1660824375 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\dominios.cpp
+	<string>
+	"dominios.h"
+	<cstring>
+	<cctype>
+
+1660824375 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\entidades.cpp
+	"entidades.h"
+
+1662043806 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"entidades.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+
+1660824375 source:c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\testes.cpp
+	"testes.h"
+
+1660824375 c:\users\eduardo\downloads\tp1-projeto1-main (1)\tp1-projeto1-main\testes.h
+	<string>
+	"dominios.h"
+	"entidades.h"
+
